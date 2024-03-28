@@ -7,11 +7,12 @@ return {
       set_cursorline = true,
       set_number = true,
       colors = {
-        copy = "#f5c359",
+        copy = "#FFFF00",
         delete = "#c75c6a",
-        insert = "#78ccc5",
-        visual = "#9745be",
+        insert = "#006400",
+        visual = "#00BFFF",
       },
+      line_opacity = 0.4,
     })
   end,
 }

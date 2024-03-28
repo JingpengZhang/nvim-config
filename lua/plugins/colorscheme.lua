@@ -4,8 +4,11 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "catppuccin-mocha",
+      colorscheme = "jellybeans",
     },
+  },
+  {
+    "nanotech/jellybeans.vim",
   },
   { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
   {
