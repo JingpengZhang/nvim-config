@@ -32,7 +32,7 @@ return {
   config = function()
     require("lualine").setup({
       options = {
-        theme = bubbles_theme,
+        theme = "moonfly",
         component_separators = "",
         section_separators = { left = "", right = "" },
       },
