@@ -6,6 +6,9 @@ return {
       view = {
         width = 40,
       },
+      filters = {
+        git_ignored = false,
+      },
     })
   end,
 }
