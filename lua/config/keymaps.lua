@@ -7,3 +7,6 @@ map("n", "gh", function()
   vim.lsp.buf.hover()
   --[[ require("pretty_hover").hover() ]]
 end, { desc = "󱙼 Hover lsp" })
+
+map({ "n", "v" }, "<leader>y", [["+y]])
+map("n", "<leader>Y", [["+Y]])
