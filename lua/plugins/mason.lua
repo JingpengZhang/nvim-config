@@ -18,7 +18,7 @@ return {
         "lua-language-server",
         "prettier",
         "tailwindcss-language-server",
-        "typescript-language-server",
+        -- "typescript-language-server",
         "vue-language-server",
       },
       automatic_installation = true,
